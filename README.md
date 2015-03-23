@@ -1,4 +1,4 @@
 Favoriete boek: 
-Stoner
-A Game of Thrones
-Band of Brothers
+Stoner  
+A Game of Thrones  
+Band of Brothers  
